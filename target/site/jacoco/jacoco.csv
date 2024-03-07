@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+codecoverage,com.codecoverage.codecoverage.controller,MainController,5,3,0,0,2,1,1,1,1,1
+codecoverage,com.codecoverage.codecoverage.service,MainService,8,3,0,0,4,1,2,1,2,1
+codecoverage,com.codecoverage.codecoverage,ServletInitializer,12,0,0,0,2,0,2,0,2,0
+codecoverage,com.codecoverage.codecoverage,CodecoverageApplication,5,3,0,0,2,1,1,1,1,1

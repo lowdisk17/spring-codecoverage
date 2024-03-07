@@ -1,0 +1,4 @@
+com/codecoverage/codecoverage/controller/MainController.class
+com/codecoverage/codecoverage/CodecoverageApplication.class
+com/codecoverage/codecoverage/ServletInitializer.class
+com/codecoverage/codecoverage/service/MainService.class
